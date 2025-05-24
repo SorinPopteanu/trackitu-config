@@ -5,5 +5,5 @@ accounts:
   message: "Welcome to TrackItU accounts related local APIs"
   contactDetails:
     name: "Sorin-Stefan Popteanu"
-    email: "(cipher)8f6e8f5f43938fea23faf9f37515a8932688d614c3d95b1f19494e22db92c5367d87aedf2e7acacf46b9211a2c870819"
-  onCallSupport: "(cipher)24444229bfedbdeb41b26f5299ea20cad057c26e87834420aadee510e6b07be2"
+    email: "{cipher)8f6e8f5f43938fea23faf9f37515a8932688d614c3d95b1f19494e22db92c5367d87aedf2e7acacf46b9211a2c870819"
+  onCallSupport: "{cipher}24444229bfedbdeb41b26f5299ea20cad057c26e87834420aadee510e6b07be2"
