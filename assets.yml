@@ -1,0 +1,9 @@
+build:
+    version: "3.0"
+
+assets:
+    message: "Welcome to TrackItU assets related local APIs"
+    contactDetails:
+        name: "Sorin-Stefan Popteanu"
+        email: "sorinpopteanu72@gmail.com"
+    onCallSupport: "+40731518509"

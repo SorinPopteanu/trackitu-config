@@ -1,0 +1,9 @@
+build:
+  version: "3.0"
+
+rooms:
+  message: "Welcome to TrackItU rooms related local APIs"
+  contactDetails:
+    name: "Sorin-Stefan Popteanu"
+    email: "sorinpopteanu72@gmail.com"
+  onCallSupport: "+40731518509"

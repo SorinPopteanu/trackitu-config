@@ -1,0 +1,5 @@
+build:
+  version: "2.0"
+
+assets:
+  message: "Welcome to TrackItU assets related QA APIs"
