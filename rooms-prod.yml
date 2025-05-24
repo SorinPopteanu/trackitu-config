@@ -2,4 +2,4 @@ build:
   version: "1.0"
 
 rooms:
-  message: "Welcome to TrackItU rooms related prod APIs"
+  message: "Welcome to TrackItU rooms related production APIs"
