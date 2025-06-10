@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Bun venit la API-urile locale pentru conturile TrackItU"
+  message: "Bun venit la API-urile locale pentru conturile aplicatiei TrackItU"
   contactDetails:
     name: "Sorin-Stefan Popteanu"
     email: "{cipher}3ffbfe7ad16639c307090c427bd59aa4a35da5a07d9492228b09bc046be570a23a69b3fb04fe8fd634cce96ff7fd9b1a"
